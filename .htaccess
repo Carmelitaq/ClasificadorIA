@@ -1,4 +1,0 @@
-Header set Access-Control-Allow-Origin "https://carmelitaq.github.io"
-Header set Access-Control-Allow-Credentials "true"
-Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
-Header set Access-Control-Allow-Headers "DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Authorization"
